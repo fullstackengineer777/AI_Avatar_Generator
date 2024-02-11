@@ -1,0 +1,22 @@
+export const Routes = {
+  Home: 'home',
+  Services: 'Services',
+  Info: 'info',
+  Settings: 'settings',
+  Filter: 'filter',
+  Accessories: 'accessories',
+  Climate: 'climate',
+  Ventilation: 'ventiation',
+  Bypass: 'bypass',
+  Filter2: 'filter2',
+  Filter3: 'filter3',
+  FilterScreens: 'filterScreens',
+  PostCooling: 'postCooling',
+  PostHeater: 'postHeater',
+  PreHeater: 'preheater',
+  Probs: 'probs',
+  Communication: 'communication',
+  Profile: 'profile',
+  ServiceLogin :'ServiceLogin',
+  LanguageScreen:'LanguageScreen'
+};
